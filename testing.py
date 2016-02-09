@@ -1,3 +1,7 @@
+"""
+Testing module
+"""
+
 import urlp.urllink as ulink
 
 content = ulink.load_url("http://www.example.org")
