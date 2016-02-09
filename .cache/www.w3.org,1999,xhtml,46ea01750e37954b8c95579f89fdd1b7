@@ -1,0 +1,19 @@
+status: 301
+content-length: 237
+content-location: http://www.w3.org/1999/xhtml
+expires: Tue, 09 Feb 2016 11:05:54 GMT
+vary: upgrade-insecure-requests
+server: Apache/2
+location: http://www.w3.org/1999/xhtml/
+cache-control: max-age=21600
+date: Tue, 09 Feb 2016 05:05:54 GMT
+-x-permanent-redirect-url: http://www.w3.org/1999/xhtml/
+content-type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://www.w3.org/1999/xhtml/">here</a>.</p>
+</body></html>

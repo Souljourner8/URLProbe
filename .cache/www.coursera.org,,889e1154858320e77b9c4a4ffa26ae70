@@ -1,0 +1,20 @@
+status: 301
+content-length: 183
+via: 1.1 9a091933d09b0551cb215979638483df.cloudfront.net (CloudFront)
+content-location: http://www.coursera.org
+x-cache: Redirect from cloudfront
+server: CloudFront
+connection: keep-alive
+x-amz-cf-id: G3jdG7l_K2PzHLikY06-s7avL83hdzvUpb_KewMzgfGRPEjGYNT1PA==
+location: https://www.coursera.org/
+date: Tue, 09 Feb 2016 05:52:24 GMT
+-x-permanent-redirect-url: https://www.coursera.org/
+content-type: text/html
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>CloudFront</center>
+</body>
+</html>
